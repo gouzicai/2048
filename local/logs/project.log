@@ -1,0 +1,336 @@
+2019-07-22T08:31:43.013Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-22T08:31:44.270Z - normal: Initializing Asset Database
+2019-07-22T08:31:44.273Z - normal: checking language setting...
+2019-07-22T08:31:44.273Z - normal: Language: zh
+2019-07-22T08:31:45.386Z - success: preview server running at http://localhost:7456
+2019-07-22T08:31:45.390Z - success: protocol editor-framework registered
+2019-07-22T08:31:45.390Z - success: protocol app registered
+2019-07-22T08:31:45.390Z - success: protocol theme registered
+2019-07-22T08:31:45.391Z - success: protocol packages registered
+2019-07-22T08:31:45.391Z - success: protocol uuid registerred
+2019-07-22T08:31:45.391Z - success: protocol db registerred
+2019-07-22T08:31:45.391Z - success: protocol thumbnail registerred
+2019-07-22T08:31:45.391Z - success: protocol unpack registerred
+2019-07-22T08:31:45.391Z - success: protocol disable-commonjs registerred
+2019-07-22T08:31:45.501Z - normal: connected!
+2019-07-22T08:31:45.502Z - normal: Check project F:\CocosProjects\self\2048
+2019-07-22T08:31:45.504Z - normal: Initializing project F:\CocosProjects\self\2048
+2019-07-22T08:31:46.030Z - normal: Initializing Cocos2d
+2019-07-22T08:31:47.200Z - normal: Initializing engine extends
+2019-07-22T08:31:47.234Z - success: asset-db-debugger loaded
+2019-07-22T08:31:47.238Z - success: baidu-adapter loaded
+2019-07-22T08:31:47.240Z - success: color-picker loaded
+2019-07-22T08:31:47.352Z - success: fb-audience-network loaded
+2019-07-22T08:31:47.443Z - success: fb-live-stream loaded
+2019-07-22T08:31:47.465Z - success: google-play-instant loaded
+2019-07-22T08:31:47.490Z - success: huawei-runtime loaded
+2019-07-22T08:31:48.014Z - success: cpk-publish loaded
+2019-07-22T08:31:48.019Z - success: jsb-adapter loaded
+2019-07-22T08:31:48.043Z - success: oppo-runtime loaded
+2019-07-22T08:31:48.051Z - success: package-manager loaded
+2019-07-22T08:31:48.248Z - success: qqplay-adapter loaded
+2019-07-22T08:31:48.259Z - success: runtime-dev-tools loaded
+2019-07-22T08:31:48.273Z - success: sdkbox loaded
+2019-07-22T08:31:48.288Z - success: tester loaded
+2019-07-22T08:31:48.295Z - success: ui-grid loaded
+2019-07-22T08:31:48.306Z - success: ui-kit-preview-extra loaded
+2019-07-22T08:31:48.314Z - success: ui-kit-preview loaded
+2019-07-22T08:31:48.326Z - success: ui-kit loaded
+2019-07-22T08:31:48.335Z - success: ui-tree loaded
+2019-07-22T08:31:48.360Z - success: vivo-runtime loaded
+2019-07-22T08:31:48.365Z - success: weapp-adapter loaded
+2019-07-22T08:31:48.371Z - success: xiaomi-adapter loaded
+2019-07-22T08:31:48.425Z - success: assets loaded
+2019-07-22T08:31:48.427Z - success: builder loaded
+2019-07-22T08:31:48.837Z - success: cocos-services loaded
+2019-07-22T08:31:48.846Z - success: console loaded
+2019-07-22T08:31:48.888Z - success: fb-instant-games loaded
+2019-07-22T08:31:48.892Z - success: google-instant-games loaded
+2019-07-22T08:31:48.898Z - success: hierarchy loaded
+2019-07-22T08:31:48.904Z - success: inspector loaded
+2019-07-22T08:31:48.910Z - success: keystore loaded
+2019-07-22T08:31:48.928Z - success: node-library loaded
+2019-07-22T08:31:48.939Z - success: package-asset loaded
+2019-07-22T08:31:48.945Z - success: preferences loaded
+2019-07-22T08:31:48.956Z - success: project-exporter loaded
+2019-07-22T08:31:48.962Z - success: project-importer loaded
+2019-07-22T08:31:48.972Z - success: project-settings loaded
+2019-07-22T08:31:48.983Z - success: scene loaded
+2019-07-22T08:31:48.988Z - success: simulator-debugger loaded
+2019-07-22T08:31:48.993Z - success: sprite-editor loaded
+2019-07-22T08:31:49.002Z - success: store loaded
+2019-07-22T08:31:49.017Z - success: timeline loaded
+2019-07-22T08:31:49.077Z - success: xiaomi-runtime loaded
+2019-07-22T08:31:51.341Z - normal: Loading packages
+2019-07-22T08:31:51.349Z - normal: Watching packages
+2019-07-22T08:31:51.624Z - info: Cocos Services load base data!
+2019-07-22T08:31:52.538Z - normal: Run Application
+2019-07-22T08:32:56.244Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "F:\\CocosProjects\\self\\2048\\build",
+  "debug": false,
+  "dest": "F:\\CocosProjects\\self\\2048\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.2048",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "8240d702-21a7-453f-9ede-9ebeb3d82c62"
+  ],
+  "sourceMaps": false,
+  "startScene": "8240d702-21a7-453f-9ede-9ebeb3d82c62",
+  "template": "link",
+  "title": "2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "e8ecbb50-4014-43",
+  "zipCompressJs": true,
+  "project": "F:\\CocosProjects\\self\\2048",
+  "projectName": "2048",
+  "debugBuildWorker": false
+}
+2019-07-22T08:32:56.248Z - normal: Building F:\CocosProjects\self\2048
+2019-07-22T08:32:56.249Z - normal: Destination F:\CocosProjects\self\2048\build\wechatgame
+2019-07-22T08:32:56.396Z - normal: Delete F:\CocosProjects\self\2048\build\wechatgame\subpackages/**/*,F:\CocosProjects\self\2048\build\wechatgame\**\*
+2019-07-22T08:34:00.474Z - normal: Start building assets
+2019-07-22T08:34:00.475Z - normal: Start spawn build-worker
+2019-07-22T08:34:01.510Z - normal: Finish spawn build-worker
+2019-07-22T08:34:01.510Z - normal: Start init build-worker
+2019-07-22T08:34:05.600Z - normal: Finish init build-worker
+2019-07-22T08:34:05.600Z - normal: Start build-assets in worker
+2019-07-22T08:34:06.281Z - normal: Finish build-assets in worker
+2019-07-22T08:34:06.292Z - normal: Finish building assets
+2019-07-22T08:34:06.300Z - normal: Start building plugin scripts
+2019-07-22T08:34:06.333Z - normal: Generating main.js from C:\CocosCreator_2.0.10\resources\static\build-templates\shares\main.js
+2019-07-22T08:34:08.415Z - success: weapp-adapter unloaded
+2019-07-22T08:34:08.419Z - success: weapp-adapter loaded
+2019-07-22T08:34:08.428Z - normal: Built to "F:\CocosProjects\self\2048\build\wechatgame" successfully
+2019-07-22T08:34:14.245Z - normal: Initializing...
+
+2019-07-22T08:34:14.254Z - normal: idePortFile: C:\Users\44856\AppData\Local\微信web开发者工具\User Data\Default\.ide
+
+2019-07-22T08:34:14.302Z - normal: IDE server has started, listening on http://127.0.0.1:20984
+initialization finished
+
+2019-07-22T08:34:14.843Z - normal: open IDE success
+
+2019-07-22T09:01:11.719Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "F:\\CocosProjects\\self\\2048\\build",
+  "debug": false,
+  "dest": "F:\\CocosProjects\\self\\2048\\build\\web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.2048",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "8240d702-21a7-453f-9ede-9ebeb3d82c62"
+  ],
+  "sourceMaps": false,
+  "startScene": "8240d702-21a7-453f-9ede-9ebeb3d82c62",
+  "template": "link",
+  "title": "2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "e8ecbb50-4014-43",
+  "zipCompressJs": true,
+  "project": "F:\\CocosProjects\\self\\2048",
+  "projectName": "2048",
+  "debugBuildWorker": false
+}
+2019-07-22T09:01:11.723Z - normal: Building F:\CocosProjects\self\2048
+2019-07-22T09:01:11.723Z - normal: Destination F:\CocosProjects\self\2048\build\web-desktop
+2019-07-22T09:01:11.726Z - normal: Delete F:\CocosProjects\self\2048\build\web-desktop\subpackages/**/*,F:\CocosProjects\self\2048\build\web-desktop\**\*
+2019-07-22T09:02:27.789Z - normal: Start building assets
+2019-07-22T09:02:27.791Z - normal: Start spawn build-worker
+2019-07-22T09:02:28.763Z - normal: Finish spawn build-worker
+2019-07-22T09:02:28.763Z - normal: Start init build-worker
+2019-07-22T09:02:33.334Z - normal: Finish init build-worker
+2019-07-22T09:02:33.334Z - normal: Start build-assets in worker
+2019-07-22T09:02:33.923Z - normal: Finish build-assets in worker
+2019-07-22T09:02:33.934Z - normal: Finish building assets
+2019-07-22T09:02:33.942Z - normal: Start building plugin scripts
+2019-07-22T09:02:33.958Z - normal: Generating main.js from C:\CocosCreator_2.0.10\resources\static\build-templates\shares\main.js
+2019-07-22T09:02:34.026Z - normal: Generating html from C:\CocosCreator_2.0.10\resources\static\build-templates\web-desktop\template\index.html
+2019-07-22T09:02:34.084Z - normal: Built to "F:\CocosProjects\self\2048\build\web-desktop" successfully
+2019-07-22T09:03:39.858Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "F:\\CocosProjects\\self\\2048\\build",
+  "debug": false,
+  "dest": "F:\\CocosProjects\\self\\2048\\build\\web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.2048",
+  "platform": "web-desktop",
+  "previewHeight": 1136,
+  "previewWidth": 640,
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "8240d702-21a7-453f-9ede-9ebeb3d82c62"
+  ],
+  "sourceMaps": false,
+  "startScene": "8240d702-21a7-453f-9ede-9ebeb3d82c62",
+  "template": "link",
+  "title": "2048",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "e8ecbb50-4014-43",
+  "zipCompressJs": true,
+  "project": "F:\\CocosProjects\\self\\2048",
+  "projectName": "2048",
+  "debugBuildWorker": false
+}
+2019-07-22T09:03:39.864Z - normal: Building F:\CocosProjects\self\2048
+2019-07-22T09:03:39.864Z - normal: Destination F:\CocosProjects\self\2048\build\web-desktop
+2019-07-22T09:03:39.865Z - normal: Delete F:\CocosProjects\self\2048\build\web-desktop\subpackages/**/*,F:\CocosProjects\self\2048\build\web-desktop\**\*
+2019-07-22T09:03:43.821Z - normal: Start building assets
+2019-07-22T09:03:43.822Z - normal: Start spawn build-worker
+2019-07-22T09:03:44.932Z - normal: Finish spawn build-worker
+2019-07-22T09:03:44.932Z - normal: Start init build-worker
+2019-07-22T09:03:49.771Z - normal: Finish init build-worker
+2019-07-22T09:03:49.771Z - normal: Start build-assets in worker
+2019-07-22T09:03:50.098Z - normal: Finish build-assets in worker
+2019-07-22T09:03:50.109Z - normal: Finish building assets
+2019-07-22T09:03:50.118Z - normal: Start building plugin scripts
+2019-07-22T09:03:50.136Z - normal: Generating main.js from C:\CocosCreator_2.0.10\resources\static\build-templates\shares\main.js
+2019-07-22T09:03:50.146Z - normal: Generating html from C:\CocosCreator_2.0.10\resources\static\build-templates\web-desktop\template\index.html
+2019-07-22T09:03:50.231Z - normal: Built to "F:\CocosProjects\self\2048\build\web-desktop" successfully
+2019-07-22T09:27:42.377Z - info: shutdown preview server
